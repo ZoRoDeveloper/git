@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Email: nhungngouet1995@gmail.com
 User:  ZoRoDeveloper
-=======
->>>>>>> parent of 197faef... try
